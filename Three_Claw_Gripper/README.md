@@ -1,1 +1,0 @@
-Three_Claw_Gripper_2025
